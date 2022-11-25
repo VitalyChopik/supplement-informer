@@ -272,7 +272,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="rvw-btn forMob"><img src="images/btn-tik.png">Evidence Based</div>
                 <div class="rvw-btn forMob" style=" background:#a8ce2a;"><img src="images/btn-tik.png">Expert Reviewed</div>
             </div>    
-            <div class="rating-col-1">
+            <div class="rating-col-1 main-product">
             	<a href="https://rockandroses.life/products/glow-powder"><img src="images/3 Flavours.png" class="rtngBx-prod1"></a>
             </div>
             <div class="rating-col-2">
@@ -366,7 +366,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p class="rtng-txt1"><span>Absolute Collagen</span><br>by Maxine Laceby.</p>
                 </div>
             </div>    
-            <div class="rating-col-1 main-product">
+            <div class="rating-col-1 ">
             	<a href="https://amzn.to/3xjQzCo"><img src="images/rtngBx-prod2.png" class="rtngBx-prod2"></a>
             </div>
             <div class="rating-col-2">
