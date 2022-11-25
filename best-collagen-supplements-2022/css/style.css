@@ -2490,3 +2490,12 @@ sup a:visited {
 .rating-box .ratingBx-hdng .rtng-hdng-rght .rtng-txt-1 span a:active {
   color: #2d2d2d;
 }
+
+.main-product a{
+  display: flex;
+}
+.main-product a .rtngBx-prod1{
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}

@@ -265,7 +265,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         	<div class="ratingBx-hdng">
             	<p class="stp-nmbr">#1</p>
                 <div class="rtng-hdng-rght">
-                    <p class="rtng-txt1"><span>Glow Powder Collagen Drink</span><br>by Rock & Roses.</p>
+                    <a href="https://rockandroses.life/products/glow-powder" class="rtng-txt1"><span>Glow Powder Collagen Drink</span><br>by Rock & Roses.</a>
                     <div class="rvw-btn hide-mob"><img src="images/btn-tik.png">Evidence Based</div>
                     <div class="rvw-btn hide-mob" style=" background:#a8ce2a;"><img src="images/btn-tik.png">Expert Reviewed</div>
                 </div>
@@ -348,7 +348,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
        
         <div class="clearall"></div>
-        <img src="images/3 Flavours.png" class="sec-img3 hide-mob" >
+        <a href="https://rockandroses.life/products/glow-powder"><img src="images/3 Flavours.png" class="sec-img3 hide-mob" ></a>
         <p class="hide-mob">&nbsp;</p>
         <p class="comn-para">There’s just one small thing…<strong>Rock & Roses</strong> is a small company right now, so they don’t have massive inventory like other “household-name” beauty brands. </p>
         <p class="comn-para">That’s why when people find out about <strong>Rock & Roses Glow Powder Collagen,</strong> their inventory sells out fast. </p>
@@ -366,7 +366,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p class="rtng-txt1"><span>Absolute Collagen</span><br>by Maxine Laceby.</p>
                 </div>
             </div>    
-            <div class="rating-col-1">
+            <div class="rating-col-1 main-product">
             	<a href="https://amzn.to/3xjQzCo"><img src="images/rtngBx-prod2.png" class="rtngBx-prod2"></a>
             </div>
             <div class="rating-col-2">
