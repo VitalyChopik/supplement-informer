@@ -14,7 +14,7 @@ $goto = "$urls[$url]";
 <html>
 <head>
 <meta charset="utf-8">
-<title>Supplement Informer- The Best UK Collagen Supplement to Support Smooth, Glowing Skin in 2022</title>
+<title>Supplement Informer- The Best UK Collagen Supplement to Support Smooth, Glowing Skin in 2023</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 
@@ -68,7 +68,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="main-section">
 	<div class="container">
-    	<h1 class="main-hdng">The Best UK Collagen Drink to Support Smooth, Glowing Skin in 2022<img src="images/flg.png"></h1>
+    	<h1 class="main-hdng">The Best UK Collagen Drink to Support Smooth, Glowing Skin in 2023<img src="images/flg.png"></h1>
         <div class="postal">
         	<div class="post-left-mob">
                 <div class="posted">
@@ -109,8 +109,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="comn-para">Should you buy your collagen from the household-name or celebrity-backed beauty brands? Or what if there’s a lesser-known brand that’s just as good (if not better), who are so confident in their product <strong>they even offer a money back guarantee if you don’t see the promised results</strong> (none of the big brands do this)?</p>
         
         <img src="images/sec-img1.png" class="sec-img-mob forMob">
-        <p class="comn-para"><strong>That’s why we’re here.</strong> We scoured the internet and braved the high street to buy and test some of 2022’s most talked about collagen products. With 5 “top” UK collagen products in hand, we combed through the scientific research, consulted with beauty specialists, and personally tested each one to help you make an informed decision.</p>
-        <p class="comn-para">So keep reading to discover out top pick collagen product for 2022, and which ones <strong>may even make your skin, joint and hair problems worse.</strong></p>
+        <p class="comn-para"><strong>That’s why we’re here.</strong> We scoured the internet and braved the high street to buy and test some of 2023’s most talked about collagen products. With 5 “top” UK collagen products in hand, we combed through the scientific research, consulted with beauty specialists, and personally tested each one to help you make an informed decision.</p>
+        <p class="comn-para">So keep reading to discover out top pick collagen product for 2023, and which ones <strong>may even make your skin, joint and hair problems worse.</strong></p>
         
         <h2 class="comn-hdng">Why we need collagen</h2>
         <p class="comn-para"><strong>The collagen market is estimated to reach £5.3 billion by 2026 for one simple reason:</strong></p>

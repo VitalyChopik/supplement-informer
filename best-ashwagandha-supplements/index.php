@@ -3,7 +3,7 @@
 
 <head>
   <title>
-    Supplement Informer - The Best Ashwagandha Supplementsin the UK 2022
+    Supplement Informer - The Best Ashwagandha Supplementsin the UK 2023
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <!--  Todo Change for correct foidicon -->
@@ -157,7 +157,7 @@
   <div class="main-section">
     <div class="container">
       <h1 class="main-hdng">
-        Best Ashwagandha Supplements in 2022
+        Best Ashwagandha Supplements in 2023
         <img src="images/flg.png" />
       </h1>
       <div class="postal">

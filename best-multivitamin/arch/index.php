@@ -3,7 +3,7 @@
 
 <head>
   <title>
-    Supplement Informer- Best Multivitamin 2022
+    Supplement Informer- Best Multivitamin 2023
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <!--  Todo Change for correct foidicon -->
@@ -139,7 +139,7 @@
   <div class="main-section">
     <div class="container">
       <h1 class="main-hdng">
-        Best Multivitamin 2021
+        Best Multivitamin 2023
         <img src="images/flg.png" />
       </h1>
       <div class="postal">
@@ -175,7 +175,7 @@
     <p class="comn-para"><b>Multivitamins cover your bases, so no matter what your diet might be lacking, you know you’re in good hands.</b> As a result of the pandemic, 1 in 3 people now claim to take a supplement, and, can you believe it, <b>70% of the UK population are now taking a supplement and most of these are multivitamins! </b></p>
     <p class="comn-para">The physiology between men and women is different, as is our eating habits and chronic micronutrient deficiencies likely result in illness. <b>The recent UK National Diet and Nutrition Survey<sup><a href="https://www.gov.uk/government/collections/national-diet-and-nutrition-survey">1</a></sup> has highlighted several concerning micronutrient discrepancies between Men and Women, thus it’s important to consider gender needs when selecting a multi.</b></p>
     <p class="comn-para"><b>The question is, however, which among them are actually safe and effective?</b> Here at Supplement Informer, we understand how tough and overwhelming it can be to study, research, and pick the best multivitamin supplement. </p>
-    <p class="comn-para">We searched for the top-selling multivitamin supplement brands in 2021. We even purchased some of the top brands, took a deep dive into various scientific studies, and interviewed experts and nutritionists to assess the different multi’s on the market. </p>
+    <p class="comn-para">We searched for the top-selling multivitamin supplement brands in 2023. We even purchased some of the top brands, took a deep dive into various scientific studies, and interviewed experts and nutritionists to assess the different multi’s on the market. </p>
 
     <h2 class="comn-hdng">What Are The Signs Of Vitamin Deficiency?</h2>
     <!-- list check -->

@@ -70,7 +70,7 @@
 
 <div class="main-section">
 	<div class="container">
-    	<h1 class="main-hdng">The Best UK Collagen Supplement to Support Smooth, Glowing Skin in 2020<img src="images/flg.png"></h1>
+    	<h1 class="main-hdng">The Best UK Collagen Supplement to Support Smooth, Glowing Skin in 2023<img src="images/flg.png"></h1>
         <div class="postal">
         	<div class="post-left-mob">
                 <div class="posted">
@@ -103,8 +103,8 @@
         <p class="comn-para">Should you buy your peptides from the household-name or celebrity-backed beauty brands? Or what if there’s a lesser-known brand that’s just as good (if not better), who are so confident in their product <strong>they even offer a money back guarantee if you don’t see the promised results</strong> (none of the big brands do this)? </p>
         
         <img src="images/sec-img1.png" class="sec-img-mob forMob">
-        <p class="comn-para"><strong>That’s why we’re here.</strong> We scoured the internet and braved the high street to buy and test some of 2020’s most talked about collagen products. We combed through the scientific research and tracked down beauty specialists and collagen experts to help you make an informed decision.</p>
-        <p class="comn-para">So keep reading to discover out top pick collagen product for 2020, and which ones <strong>may even make your skin, joint and hair problems worse.</strong> </p>
+        <p class="comn-para"><strong>That’s why we’re here.</strong> We scoured the internet and braved the high street to buy and test some of 2023’s most talked about collagen products. We combed through the scientific research and tracked down beauty specialists and collagen experts to help you make an informed decision.</p>
+        <p class="comn-para">So keep reading to discover out top pick collagen product for 2023, and which ones <strong>may even make your skin, joint and hair problems worse.</strong> </p>
         
         <h2 class="comn-hdng">Why Celebrities Love Collagen Peptides</h2>
         <p class="comn-para"><strong>The collagen market is estimated to reach £5.3 billion by 2026 for one simple reason:</strong></p>

@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Supplement Informer- The Best Collagen Supplements in the UK 2020</title>
+<title>Supplement Informer- The Best Collagen Supplements in the UK 2023</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 
@@ -93,7 +93,7 @@ gtag('config', 'UA-179469207-1', {
         <p class="comn-para">There are several household brands, some back by <b>celebrity influencers use expensive PR and marketing to sell their products</b> however if you open up the hood and look at whats underneath do the products match up to the claims they are making?</p>
         
         <img src="images/sec-img1.png" class="sec-img-mob forMob">
-        <p class="comn-para">That’s why we’re here. <strong>We researched the top selling collagen supplements on the internet</strong> and made purchases to test some of 2020’s most talked about collagen products. We combed through the scientific research and interviewed beauty specialists and collagen experts*</p>
+        <p class="comn-para">That’s why we’re here. <strong>We researched the top selling collagen supplements on the internet</strong> and made purchases to test some of 2023’s most talked about collagen products. We combed through the scientific research and interviewed beauty specialists and collagen experts*</p>
         <p class="comn-para">Some of the <strong>supplmements we were informed could even make your hair, skin and nails worse</strong> which is why you need to keep reading to make sure you get the scoop on what we discovered. </p>
         
         <h2 class="comn-hdng">Why do we need to take collagen supplements?</h2>

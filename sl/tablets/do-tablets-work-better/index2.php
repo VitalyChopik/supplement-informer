@@ -15,7 +15,7 @@ $goto = "$urls[$url]";
 <html>
 <head>
 <meta charset="utf-8">
-<title>Supplement Informer- The Best UK Collagen Supplement to Support Smooth, Glowing Skin in 2021</title>
+<title>Supplement Informer- The Best UK Collagen Supplement to Support Smooth, Glowing Skin in 2023</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 
@@ -80,7 +80,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="main-section">
 	<div class="container">
-    	<h1 class="main-hdng">The Low Down on Whether it's Worth taking Collagen Tablets in 2021<img src="images/flg.png"></h1>
+    	<h1 class="main-hdng">The Low Down on Whether it's Worth taking Collagen Tablets in 2023<img src="images/flg.png"></h1>
         <div class="postal">
         	<div class="post-left-mob">
                 <div class="posted">
@@ -132,8 +132,8 @@ Tablets are also not built for instant results. They are designed to work their 
         <p class="comn-para">Should you buy your collagen from the household-name or celebrity-backed beauty brands? Or shopuld you base your decision on a more science based approach?</p>
         
         <img src="images/sec-img1.png" class="sec-img-mob forMob">
-        <p class="comn-para">That’s why we’re here. We scoured the internet and braved the high street to buy some of 2021’s most talked about collagen products and looks a little more closely under the hood at what each brand actually contained. With 5 “top” UK collagen products in hand, we combed through the scientific research, consulted with beauty specialists, and collated all the data necessary to make a decision.</p>
-        <p class="comn-para">So keep reading to discover out top pick collagen product for 2021, and which ones may even make your skin, joint and hair problems worse.</p>
+        <p class="comn-para">That’s why we’re here. We scoured the internet and braved the high street to buy some of 2023’s most talked about collagen products and looks a little more closely under the hood at what each brand actually contained. With 5 “top” UK collagen products in hand, we combed through the scientific research, consulted with beauty specialists, and collated all the data necessary to make a decision.</p>
+        <p class="comn-para">So keep reading to discover out top pick collagen product for 2023, and which ones may even make your skin, joint and hair problems worse.</p>
         
        <h2 class="comn-hdng">Why do we need to take collagen supplements?</h2>
         <p class="comn-para"><strong>Celebrities like <span>Jennifer Aniston</span> and <span>Kourtney Kardashian</span> among countless others swear by collagen for one 

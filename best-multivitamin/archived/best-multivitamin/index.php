@@ -3,7 +3,7 @@
 
 <head>
   <title>
-    Supplement Informer- The Best UK Multivitamin Supplement to Support Overall Health & Wellness in 2021
+    Supplement Informer- The Best UK Multivitamin Supplement to Support Overall Health & Wellness in 2023
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <!--  Todo Change for correct foidicon -->
@@ -208,7 +208,7 @@
       </p>
       <p class="comn-para">
         We searched for the top-selling multivitamin supplement brands in
-        2021. We even purchased some of the top brands so we could personally
+        2023. We even purchased some of the top brands so we could personally
         test them. And, we took a deep-dive into various scientific studies,
         and interviewed experts and nutritionists to assess the different
         multi’s on the market.
