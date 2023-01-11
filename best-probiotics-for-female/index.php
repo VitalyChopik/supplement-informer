@@ -384,7 +384,7 @@
                             <img src="images/btn-tik.png" />Evidence Based
                         </div>
                         <div class="rvw-btn hide-mob" style="background: #a8ce2a">
-                            <img src="i" />Expert Reviewed
+                            <img src="images/btn-tik.png" />Expert Reviewed
                         </div>
                     </div>
                     <div class="rvw-btn forMob">
