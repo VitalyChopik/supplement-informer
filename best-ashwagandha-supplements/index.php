@@ -218,7 +218,7 @@
       
       
       <p class="comn-para"><strong>That's why we've done all the hard work for you?</strong></p>
-      <p class="comn-para">We searched for the top-selling biotin supplement brands ono the market and purchased all of them so we could personally test them and consult with our team of nutritionists who provided some much needed insight on the quality of all the different Ashwagandha supplements on the market.
+      <p class="comn-para">We searched for the top-selling Ashwagandha supplement brands on the market and purchased all of them so we could personally test them and consult with our team of nutritionists who provided some much needed insight on the quality of all the different Ashwagandha supplements on the market.
           <!-- <sup><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7695755/">2</a></sup> -->
       </p>
 
@@ -246,7 +246,7 @@
     </div>
 
     <div class="red-box block-beware">
-      <div class="redBx-top-Hdng"><span>BEWARE:</span> Not All Ashwaganha Is Equal</div>
+      <div class="redBx-top-Hdng"><span>BEWARE:</span> Not All Ashwagandha Is Equal</div>
       <div class="redbx-mdl">
           <p class="comn-para">Studies on Ashwagandha have used dosages of 250–600 mg/day of a root extract. <b>The most common dosing protocol is 600 mg/day</b> divided into two doses, with one taken in the morning with breakfast and the other in the evening. <b>Anything higher is usually not absorbed or too strong and can cause drowsiness.</b></p>
           <p class="comn-para">Any brand that provides <b>a delayed release formula over a formula which enters the system in one go is preferable</b> because delaying the release of the herb over a period of time reduces the side effects of drowsiness. Additionally a delayed release capsule ensures you receive the power of the supplement with little to no wastage.</p>
