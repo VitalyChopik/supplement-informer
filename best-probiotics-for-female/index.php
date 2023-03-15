@@ -3,7 +3,7 @@
 
 <head>
     <title>
-        Supplement Informer - Best Probiotics for Weight Loss in UK 2023
+        Supplement Informer - Best Probiotics for Vaginal and Urinary Health in UK 2023
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <!--  Todo Change for correct foidicon -->
@@ -198,43 +198,41 @@
         <a href="https://supplement-informer.com/advertiser-disclosure/">Advertiser Disclosure</a>
         <p>*Supplement Informer is made up of the views and opinions of our beauty and nutrition expert Simon White who is a qualified nutritionist from the University of Sheffield. The scoring is determined at his own discretion and should not be used for accuracy purposes. We are able to provide this service for free thanks to the referral fees we receive from a number of service providers along with an ownership stake in one or more of the brands. These referral fees may affect the rankings and score assigned to specific vendors. Furthermore, though many vendors appear on the Supplement Informer, this DOES NOT imply endorsement of any kind and the results of using such products may vary. The information and vendors which appear on Supplement Informer is subject to change at any time.</p>
       </span>  -->
-            <h2 class="comn-hdng">Which Brand of Probiotics Should You Buy for Weight Loss?</h2>
+            <h2 class="comn-hdng">Probiotics for Vaginal Health: Do They Work?</h2>
 
-            <p class="comn-para">It’s long been touted that the best way to lose weight is to exercise and eat well and
-                as much as that works for many people, obesity is a multifaceted condition that involves genetics,
-                hormones, diet, environment, socioeconomic status, exercise habits, sleep patterns, and sedentary time.
+            <p class="comn-para">Vaginal infections represent a unique health challenge for women affecting not merely physical health but also emotional and social well-being of women. 
             </p>
 
-            <p class="comn-para">Research does suggest that probiotics may be a useful tool in the treatment of
-                obesity as long as the right strains of probiotic are included in the product.</p>
+            <p class="comn-para">Discomforting symptoms such as vaginal itchiness, irritation, swelling, soreness, discomfort, redness and vaginal discharge leading to frequent hospital visits, the estimated annual global economic burden of the treatment of vaginal infections costs the NHS £4.8 billion</p>
 
-            <p class="comn-para">Unfortunately when looking under the cover at the strains a lot of these brands use they include very little to none of the strains clinically proven to treat obesity</p>
+            <p class="comn-para">Vaginal yeast infections are especially common during pregnancy due to higher estrogen levels and glycogen content in vaginal secretions </p>
             
-            <p class="comn-para">We've seen numbers like 900 million, 5 billion, and 50 billion CFUs being printed on the front of a ton of brands and as much as its important to have a good CFU count when choosing your probiotic, the bottom line is its more important to choose the probiotic that contains the correct strains which relate to the biological issue you are trying to treat. </p>
+            <p class="comn-para">The disruption of vaginal ecosystem contributes to the overgrowth of pathogens which causes complicated vaginal infections such as bacterial vaginosis (BV), sexually transmitted infections (STIs), and vulvovaginal candidiasis (VVC). </p>
 
-            <p class="comn-para">We searched for the top-selling Probiotics for weight loss supplement brands on the
-                market and purchased all of them so we could personally test them and consult with our team of
-                nutritionists who provided some much needed insight on the quality of all the different supplements on
-                the market.
+            <p class="comn-para">Research suggests that probiotics may be a useful tool in the treatment of vaginal and urinary infections as long as the right strains of probiotic are included in the supplement. However when looking under the hood of many of the market leaders in the space some of them did not include a single probiotic strain which was relevant to vaginal health.
                 <!-- <sup><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7695755/">2</a></sup> -->
             </p>
+            
+            <p class="comn-para">Research suggests that probiotics may be a useful tool in the treatment of vaginal and urinary infections as long as the right strains of probiotic are included in the supplement. However when looking under the hood of many of the market leaders in the space some of them did not include a single probiotic strain which was relevant to vaginal health.
+                <!-- <sup><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7695755/">2</a></sup> -->
+            </p>
+            
 
-            <h2 class="comn-hdng">Which Strains of Probiotic are Best for Weight Loss?
+            <h2 class="comn-hdng">Which strains of Probiotic are Key to Urinary and Vaginal Health
             </h2>
-            <p class="comn-para">In one study, eating yogurt with <mark>Lactobacillus fermentum</mark> reduced body fat by 3–4% over
-                6 weeks </p>
+            <p class="comn-para">It's important to ensure that when choosing a probiotic for Vaginal health you select one that only includes strains of probiotic which are proven scientifically to aid in this area. We have listed below the main strains that have actual studies behind them,</p>
 
-            <p class="comn-para">Another study of 125 overweight dieters investigated the effects of <mark>Lactobacillus
-                rhamnosus</mark> supplements on weight loss and weight maintenance.</p>
+            <p class="comn-para">A probiotic strain that has been shown to prevent the colonisation of harmful bacteria in the vaginal microbiota is <mark>Lactobacillus reuteri</mark>. Studies have demonstrated that women with bacterial vaginosis who took L. reuteri orally had a higher cure rate compared to those who took a placebo. Furthermore, it has also been shown to help reduce the recurrence of vaginal infections. </p>
 
-            <p class="comn-para">Of all the probiotic bacteria studied to date, <mark>Lactobacillus gasseri</mark> shows some of the
-                most promising effects on weight loss.</p>
+            <p class="comn-para"> A probiotic strain that is commonly found in the vaginal microbiota is <mark>Lactobacillus acidophillus</mark>. It is known to produce lactic acid, which helps to maintain a healthy pH in the vaginal environment. </p>
 
-            <p class="comn-para">Another study in 135 people with significant amounts of belly fat found those who took
-                <mark>Bifidobacterium animalis</mark> subsp. lactis daily for 3 months lost significantly more belly fat and had
-                reduced BMI and waist circumference, compared with those taking a placebo. These results were especially
-                pronounced in women. </p>
-            <br>
+            <p class="comn-para"><mark>Lactobacillus rhamnosus</mark> has been found to be effective in the prevention and treatment of bacterial vaginosis. Studies have shown that L. rhamnosus can help restore the balance of the vaginal microbiota and reduce the recurrence of infections. It has also been suggested to be effective in reducing the incidence of urinary tract infections.</p>
+
+            <p class="comn-para"><mark>Fructo-oligosaccarides</mark> - are a type of prebiotic that can help stimulate the growth of beneficial bacteria, such as lactobacilli, in the vaginal microbiota. Studies have shown that the use of fructo-oligosaccharides in combination with probiotics can be effective in the prevention and treatment of bacterial vaginosis.</p>
+
+            <p class="comn-para"><mark>Lactobacillus plantarum</mark> is a probiotic strain that has been shown to have antimicrobial properties. It has been suggested to be effective in the prevention and treatment of bacterial vaginosis and to reduce the incidence of urinary tract infections.</p>
+
+            <p class="comn-para"><mark>Cranberry Extract</mark> - commonly used to support urinary tract health. It may help prevent and treat urinary tract infections (UTIs) by inhibiting bacteria from adhering to the walls of the urinary tract.</p>
             <div class="container" style="text-align: center;">
                 
             </div>
@@ -258,30 +256,28 @@
                         <p class="must-have-hdng">Must Haves</p>
                         <ul class="must-tbl-list">
                             <li>
-                                <span>At Least 4 or more of the correct strains of bacteria</span>
+                                <span>At Least 4 or more of the following strains Lactobacillus reuteri, Lactobacillus acidophillus, Lactobacillus rhamnosus, Lactobacillus plantarum, Synbalance Lactobacillus Gasseri, Lactobacillus helveticus, Lactobacillus fermentum </span>
                             </li>
                             <li>
-                                <span>A delayed release capsule so the bacteria can survive long enough</span>
+                                <span>Delayed release formula a must otherwise walk away. Waste of money.</span>
                             </li>
                             <li>
-                                <span>Look for a brand that includes a Prebiotic strain</span>
+                                <span>Bonus : If the brand includes a prebiotic then the probiotics you ingest will thrive. Good prebiotics are fructo-oligosaccharides (FOS), and galacto-oligosaccharides (GOS)</span>
                             </li>
-                            <li>
-                                <span>Natural Ingredients</span>
-                            </li>
+                          
                         </ul>
                     </div>
                     <div class="must-haves-left must-haves-right">
                         <p class="must-have-hdng">Must Avoid</p>
                         <ul class="must-tbl-list must-tbl-list2">
                             <li>
-                                <span>Brands that tout high CFU's with no weight loss strains</span>
+                                <span>A high CFU count with no relavant strains to vaginal health</span>
                             </li>
                             <li>
-                                <span>Amazon products with fake reviews</span>
+                                <span>Amazon products which boost popularity with fake reviews.</span>
                             </li>
                             <li>
-                                <span>Cheap Brands with fillers and no added beneficial ingredients</span>
+                                <span>Cheaply priced products under £20 are a red flag. Good probiotics cost money to produce and anyone pricing too low has likely cut corners.</span>
                             </li>
                         </ul>
                     </div>
@@ -338,7 +334,7 @@
             <div class="rank-box">
                 <h2>How We Picked Our Top Choice – A Guide To Our Rankings:</h2>
                 <p class="comn-para rankbx-para">
-                    After months of intensive research, interviews with multivitamin
+                    After months of intensive research, interviews with probiotic
                     customers, and extensive personal testing, we’ve finally narrowed
                     down hundreds of different products into our top 4 and eventually
                     crowned a winner.
@@ -363,7 +359,7 @@
                 <div class="criteria-Box">
                     <p class="s1-txt2">Evaluation Criteria</p>
                     <ul>
-                        <li>Taste & Ease of Use</li>
+                        <li>Ease of Use</li>
                         <li>Value</li>
                         <li>Results</li>
                         <li>Synergistic Ingredients</li>
@@ -377,7 +373,7 @@
                     <p class="stp-nmbr">#1</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span><a href="https://rockandroses.life/products/ashwagandha"> Probiotic for Weight Delayed Release</a> </span><br />
+                            <span><a href="https://rockandroses.life/products/ashwagandha"> Probiotics for Her Delayed Release</a> </span><br />
                             Rock and Roses Premium Supplements
                         </p>
                         <div class="rvw-btn hide-mob">
@@ -406,7 +402,7 @@
                             <p><span style="width: 99%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 97%"></span></p>
                         </li>
                         <li>
@@ -443,9 +439,9 @@
                 <div class="pros-box-col">
                     <p class="pros-bx-hdng"><img src="images/like-icon.png" />PROS</p>
                     <ul>
-                        <li>Over 5 proven weight loss strains of Probiotic</li>
-                        <li>Delayed release formula</li>
-                        <li>Suitable for vegans</li>
+                        <li>Contains 7 of the strains mentioned in our reasearch (Lactobacillus reuteri, Lactobacillus acidophillus, Lactobacillus rhamnosus, Lactobacillus plantarum, Lactobacillus Gasseri, Lactobacillus helveticus and Lactobacillus fermentum )</li>
+                        <li>Contains a delayed release formula using Sepismart&#8482;</li>
+                        <li>Contains a top class prebiotic (Fructooligosaccharides (FOS))</li>
                         <li>No-questions-asked 90-day money-back guarantee</li>
                         <li>Made from a reputable UK company, to GMP standards</li>
                     </ul>
@@ -462,15 +458,14 @@
                 </div>
             </div>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Ashwagandha KSM-66
-                    Delayed Release- RISK-FREE
+                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotics for Her Delayed Release - RISK-FREE
                 </a>
             </div>
 
 
             <p class="btm-line-hdng">The Bottom Line</p>
             <p class="btm-line-para">
-                Ashwagandha Delayed Release by Rock & Roses has been voted #1 by our nutrition expert Simon White*,
+                Probiotics for Her Delayed Release - RISK-FREE by Rock & Roses has been voted #1 by our nutrition expert Simon White*,
                 <span class="red"> with a 9.8 out of 10 score.</span>
             </p>
             <p class="btm-line-hdng" style="margin-bottom: 15px">What We Loved</p>
@@ -519,32 +514,30 @@
             <p class="comn-para">There’s just one small thing…</p>
             <p class="comn-para">
                 Rock & Roses is a small-sized company right now. Compared to other household name brands, they don’t
-                have a massive inventory of Ashwagandha KSM-66 Delayed Release.
+                have a massive inventory of Probiotics for Her Delayed Release.
             </p>
             <p class="comn-para">
                 In other words, with higher demand than the supply, their inventory sells out fast.
             </p>
             <p class="comn-para">The good news is:</p>
             <p class="comn-para">
-                If you’re reading this page, you can still take advantage and stock up on bottles of Ashwagandha KSM-66
-                Delayed Release
+                If you’re reading this page, you can still take advantage and stock up on bottles of Probiotics for Her Delayed Release
             </p>
             <p class="comn-para">
-                So, before Ashwagandha KSM-66 Delayed Release sells out fast… which is possible within 24 hours, Rock &
+                So, before Probiotics for Her Delayed Release sells out fast… which is possible within 24 hours, Rock &
                 Roses highly recommends that you buy and stock up now.
             </p>
             <p class="comn-para">
                 Manufacturing may take 3-6 months depending on the availability of ingredients. And with the delay of
                 shipment due to the current worldwide situation, it may take customers 10 or more weeks before they can
-                get bottles of the Ashwagandha KSM-66 Delayed Release.
+                get bottles of the Probiotics for Her Delayed Release.
             </p>
             <p class="comn-para">
                 Remember: you are covered by the company’s no-questions-asked 90-day money-back guarantee.
             </p>
-            <p class="comn-para">Click the button below to try the Ashwagandha KSM-66 Delayed Release risk-free.</p>
+            <p class="comn-para">Click the button below to try the Probiotics for Her Delayed Release risk-free.</p>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Ashwagandha KSM-66
-                    Delayed Release- RISK-FREE
+                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotics for Her Delayed Release - RISK-FREE
                 </a>
             </div>
             <div class="rating-box">
@@ -848,8 +841,7 @@
             </a>
         </div>
         <div class="btn-box">
-            <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Ashwagandha KSM-66
-                Delayed Release- RISK-FREE
+            <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotics for Her Delayed Release - RISK-FREE
             </a>
         </div>
     </div>

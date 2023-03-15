@@ -3,7 +3,7 @@
 
 <head>
     <title>
-        Supplement Informer - Best Probiotics for Weight Loss in UK 2023
+        Supplement Informer - Best Probiotics for Digestive Health in UK 2023
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <!--  Todo Change for correct foidicon -->
@@ -145,7 +145,7 @@
     <div class="main-section">
         <div class="container">
             <h1 class="main-hdng">
-                The Best Probiotics for Weight Loss in 2023
+                The Best Probiotics for Digestion and IBS in 2023
                 <img src="images/flg.png" />
             </h1>
             <div class="postal">
@@ -198,42 +198,41 @@
         <a href="https://supplement-informer.com/advertiser-disclosure/">Advertiser Disclosure</a>
         <p>*Supplement Informer is made up of the views and opinions of our beauty and nutrition expert Simon White who is a qualified nutritionist from the University of Sheffield. The scoring is determined at his own discretion and should not be used for accuracy purposes. We are able to provide this service for free thanks to the referral fees we receive from a number of service providers along with an ownership stake in one or more of the brands. These referral fees may affect the rankings and score assigned to specific vendors. Furthermore, though many vendors appear on the Supplement Informer, this DOES NOT imply endorsement of any kind and the results of using such products may vary. The information and vendors which appear on Supplement Informer is subject to change at any time.</p>
       </span>  -->
-            <h2 class="comn-hdng">Which Brand of Probiotics Should You Buy for Weight Loss?</h2>
+            <h2 class="comn-hdng">Which Brand of Probiotics Should You Buy for IBS?</h2>
 
-            <p class="comn-para">It’s long been touted that the best way to lose weight is to exercise and eat well and
-                as much as that works for many people, obesity is a multifaceted condition that involves genetics,
-                hormones, diet, environment, socioeconomic status, exercise habits, sleep patterns, and sedentary time.
+            <p class="comn-para">Many digestive processes rely on a balance of various bacteria, which are found naturally in the gastrointestinal tract. If these bacteria fall out of balance, gastrointestinal disorders may occur, possibly including IBS.
             </p>
 
-            <p class="comn-para">Research does suggest that probiotics may be a useful tool in the treatment of
-                obesity as long as the right strains of probiotic are included in the product.</p>
+            <p class="comn-para">Research does suggest that probiotics may be a useful tool in the treatment of IBS as long as the right strains of probiotic are included in the product.</p>
 
-            <p class="comn-para">Unfortunately when looking under the cover at the strains a lot of these brands use they include very little to none of the strains clinically proven to treat obesity</p>
+            <p class="comn-para">Unfortunately when looking under the cover at the strains a lot of these brands use they include very little to none of the strains clinically proven to treat IBS</p>
             
-            <p class="comn-para">We've seen numbers like 900 million, 5 billion, and 50 billion CFUs being printed on the front of a ton of brands and as much as its important to have a good CFU count when choosing your probiotic, the bottom line is its more important to choose the probiotic that contains the correct strains which relate to the biological issue you are trying to treat. </p>
+            <p class="comn-para">We've seen numbers like 900 million, 5 billion, and 50 billion CFUs being printed on the front of a ton of brands and as much as its important to have a good CFU count when choosing your probiotic, the bottom line is its more important to choose the probiotic that contains the correct strains which relate to the biological issue you are trying to treat.</p>
 
-            <p class="comn-para">We searched for the top-selling Probiotics for weight loss supplement brands on the
-                market and purchased all of them so we could personally test them and consult with our team of
-                nutritionists who provided some much needed insight on the quality of all the different supplements on
-                the market.
+            <p class="comn-para">We searched for the top-selling Probiotics for digestive health on the market and purchased all of them so we could personally test them and consult with our team of nutritionists who provided some much needed insight on the quality of all the different supplements on the market.
                 <!-- <sup><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7695755/">2</a></sup> -->
             </p>
 
-            <h2 class="comn-hdng">Which Strains of Probiotic are Best for Weight Loss?
+            <h2 class="comn-hdng">Which Strains of Probiotic are Best for Digestion and IBS?
             </h2>
-            <p class="comn-para">In one study, eating yogurt with <mark>Lactobacillus fermentum</mark> reduced body fat by 3–4% over
-                6 weeks </p>
+            <p class="comn-para">Three hundred and thirty adults, aged 18 to 70 years, with IBS according to Rome IV criteria were allocated to receive placebo, <mark>Lactobacillus acidophilus</mark> or <mark>Bifidobacterium lactis</mark> over six weeks. The primary outcome was the change in Abdominal Pain Severity. 
 
-            <p class="comn-para">Another study of 125 overweight dieters investigated the effects of <mark>Lactobacillus
-                rhamnosus</mark> supplements on weight loss and weight maintenance.</p>
+Over the intervention period, abdominal pain was significantly improved in both probiotic groups vs. placebo in absolute terms.<sup><a href="https://pubmed.ncbi.nlm.nih.gov/32019158/">1</a></sup>
+</p>
 
-            <p class="comn-para">Of all the probiotic bacteria studied to date, <mark>Lactobacillus gasseri</mark> shows some of the
-                most promising effects on weight loss.</p>
+            <p class="comn-para">One hundred twenty-three patients (median age 37 years, range: 18-74 years)
+                Were treated with <mark>Lactobacillus rhamnosus</mark> to investigate the effects in aiding with irritable bowel syndrome (IBS). It was concluded that this particular strain was efficatious in patients with IBS.<sup><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239510/">2</a></sup></p>
 
-            <p class="comn-para">Another study in 135 people with significant amounts of belly fat found those who took
-                <mark>Bifidobacterium animalis</mark> subsp. lactis daily for 3 months lost significantly more belly fat and had
-                reduced BMI and waist circumference, compared with those taking a placebo. These results were especially
-                pronounced in women. </p>
+            <p class="comn-para">A 4-wk treatment with <mark>Lactobacillus plantarum</mark> provided effective symptom relief, particularly of abdominal pain and bloating, in IBS patients fulfilling the Rome III criteria.<sup><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419998/">3</a></sup></p>
+            
+                        
+            <p class="comn-para">A total of 70 patients (IBS, 34 diarrhoea associated with antibiotics, 13 diarrhoea, 16 other conditions) were given <mark>Lactobacillus Fermentum</mark>. Of 15 studies that examined global IBS symptoms as a primary endpoint, 8 reported significant benefits of probiotics vs placebo. Consensus statements with 100% agreement and “high” evidence level indicated that specific probiotics help reduce overall symptom burden and abdominal pain in some patients with IBS and duration/intensity of diarrhoea.<sup><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5900870/">4</a></sup>
+
+</p>
+            
+            <p class="comn-para">From November 2018 to January 2020, 278 patients with IBS (according to Rome IV criteria) were enrolled in a prospective, open-label, multicenter observational study by private practice gastroenterologists to received one capsule of <mark>Bifidobacterium longum</mark>
+
+a significant decrease in IBS severity was observed and 57% of patients moved to lower severity categories or achieved remission. The quality of life of patients was also improved by the treatment and 63.8% of patients were satisfied with the treatment.<sup><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8891724/6">5</a></sup></p>
             <br>
             <div class="container" style="text-align: center;">
                 
@@ -377,7 +376,7 @@
                     <p class="stp-nmbr">#1</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span><a href="https://rockandroses.life/products/ashwagandha"> Probiotic for Weight Delayed Release</a> </span><br />
+                            <span><a href="https://rockandroses.life/products/ashwagandha"> Probiotic for Digestion Delayed Release</a> </span><br />
                             Rock and Roses Premium Supplements
                         </p>
                         <div class="rvw-btn hide-mob">
@@ -406,7 +405,7 @@
                             <p><span style="width: 99%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 97%"></span></p>
                         </li>
                         <li>
@@ -462,8 +461,7 @@
                 </div>
             </div>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Ashwagandha KSM-66
-                    Delayed Release- RISK-FREE
+                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probitics for Digestion Delayed Release- RISK-FREE
                 </a>
             </div>
 
@@ -519,7 +517,7 @@
             <p class="comn-para">There’s just one small thing…</p>
             <p class="comn-para">
                 Rock & Roses is a small-sized company right now. Compared to other household name brands, they don’t
-                have a massive inventory of Ashwagandha KSM-66 Delayed Release.
+                have a massive inventory of Probitics for DigestionDelayed Release.
             </p>
             <p class="comn-para">
                 In other words, with higher demand than the supply, their inventory sells out fast.
@@ -530,18 +528,18 @@
                 Delayed Release
             </p>
             <p class="comn-para">
-                So, before Ashwagandha KSM-66 Delayed Release sells out fast… which is possible within 24 hours, Rock &
+                So, before Probitics for DigestionDelayed Release sells out fast… which is possible within 24 hours, Rock &
                 Roses highly recommends that you buy and stock up now.
             </p>
             <p class="comn-para">
                 Manufacturing may take 3-6 months depending on the availability of ingredients. And with the delay of
                 shipment due to the current worldwide situation, it may take customers 10 or more weeks before they can
-                get bottles of the Ashwagandha KSM-66 Delayed Release.
+                get bottles of the Probitics for DigestionDelayed Release.
             </p>
             <p class="comn-para">
                 Remember: you are covered by the company’s no-questions-asked 90-day money-back guarantee.
             </p>
-            <p class="comn-para">Click the button below to try the Ashwagandha KSM-66 Delayed Release risk-free.</p>
+            <p class="comn-para">Click the button below to try the Probitics for DigestionDelayed Release risk-free.</p>
             <div class="btn-box">
                 <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Ashwagandha KSM-66
                     Delayed Release- RISK-FREE

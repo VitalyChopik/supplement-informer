@@ -198,29 +198,24 @@
         <a href="https://supplement-informer.com/advertiser-disclosure/">Advertiser Disclosure</a>
         <p>*Supplement Informer is made up of the views and opinions of our beauty and nutrition expert Simon White who is a qualified nutritionist from the University of Sheffield. The scoring is determined at his own discretion and should not be used for accuracy purposes. We are able to provide this service for free thanks to the referral fees we receive from a number of service providers along with an ownership stake in one or more of the brands. These referral fees may affect the rankings and score assigned to specific vendors. Furthermore, though many vendors appear on the Supplement Informer, this DOES NOT imply endorsement of any kind and the results of using such products may vary. The information and vendors which appear on Supplement Informer is subject to change at any time.</p>
       </span>  -->
-            <h2 class="comn-hdng">Which Brand of Probiotics Should You Buy for Weight Loss?</h2>
+            <h2 class="comn-hdng">Ways Our Gut Bacteria Can Affect Our Weight and Eating Habits</h2>
 
             <p class="comn-para">It’s long been touted that the best way to lose weight is to exercise and eat well and
                 as much as that works for many people, obesity is a multifaceted condition that involves genetics,
                 hormones, diet, environment, socioeconomic status, exercise habits, sleep patterns, and sedentary time.
-            </p>
-
-            <p class="comn-para">Research does suggest that probiotics may be a useful tool in the treatment of
-                obesity as long as the right strains of probiotic are included in the product.</p>
-
-            <p class="comn-para">Unfortunately when looking under the cover at the strains a lot of these brands use they include very little to none of the strains clinically proven to treat obesity</p>
+            </p>            
             
-            <p class="comn-para">We've seen numbers like 900 million, 5 billion, and 50 billion CFUs being printed on the front of a ton of brands and as much as its important to have a good CFU count when choosing your probiotic, the bottom line is its more important to choose the probiotic that contains the correct strains which relate to the biological issue you are trying to treat. </p>
+            <p class="comn-para">The evidence that the bacteria in our guts plays a big role in obesity comes from past research comparing the microbiomes of twins. When researchers transplanted bacteria from human microbiomes into mice that had been bred and raised to be germ-free, <b>mice that received bacteria from the twin with obesity became obese</b> and those that received bacteria from the normal-weight twin stayed at their normal weight.</p>
 
-            <p class="comn-para">We searched for the top-selling Probiotics for weight loss supplement brands on the
-                market and purchased all of them so we could personally test them and consult with our team of
-                nutritionists who provided some much needed insight on the quality of all the different supplements on
-                the market.
-                <!-- <sup><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7695755/">2</a></sup> -->
-            </p>
+            <p class="comn-para">They also learned that <b>people whose gut bacteria reproduce quickly dropped weight more successfully</b>. The results, which were published in October 2021 in the journal mSystems (subscript https://pubmed.ncbi.nlm.nih.gov/34519531/ ), may explain why some people have a harder time losing weight than others.</p>
+
+            
 
             <h2 class="comn-hdng">Which Strains of Probiotic are Best for Weight Loss?
             </h2>
+            <p class="comn-para">Unfortunately when looking under the cover of many supplement brands, they were including very little to none of the strains clinically proven to treat obesity.</p>
+                            
+            </p>
             <p class="comn-para">In one study, eating yogurt with <mark>Lactobacillus fermentum</mark> reduced body fat by 3–4% over
                 6 weeks </p>
 
@@ -234,7 +229,9 @@
                 <mark>Bifidobacterium animalis</mark> subsp. lactis daily for 3 months lost significantly more belly fat and had
                 reduced BMI and waist circumference, compared with those taking a placebo. These results were especially
                 pronounced in women. </p>
-            <br>
+            
+            <p class="comn-para">We searched for the top-selling Probiotics for weight management on the market and purchased them so we could check the strains they used and whether they were were actually suitable. We give our top 5 ranked probiotics in this market a little later.
+            
             <div class="container" style="text-align: center;">
                 
             </div>
@@ -244,7 +241,7 @@
                 <div class="redbx-mdl">
                     <p class="comn-para">There’s one very important thing to keep in mind. Those high CFU numbers and special strains aren’t any good to you if they haven’t survived the passage to your gut! Research has shown that in order for probiotics to be of any benefit, they must first survive the journey through the acidic environment of your gastrointestinal tract.</p>
                     
-                    <p class="comn-para">Delayed release capsules are made of a synthetic material that can tolerate the harsh environment of your stomach, so it will survive the passage through to your intestines, making them a must have when choosing probiotics</p>
+                    <p class="comn-para"><b>Delayed release capsules</b> are made of a synthetic material that can tolerate the harsh environment of your stomach, so it will survive the passage through to your intestines, making them a must have when choosing probiotics</p>
                    
                 </div>
             </div>
@@ -377,7 +374,7 @@
                     <p class="stp-nmbr">#1</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span><a href="https://rockandroses.life/products/ashwagandha"> Probiotic for Weight Delayed Release</a> </span><br />
+                            <span><a href="https://rockandroses.life/products/ashwagandha"> Probiotic for Weight</a> </span><br />
                             Rock and Roses Premium Supplements
                         </p>
                         <div class="rvw-btn hide-mob">
@@ -406,7 +403,7 @@
                             <p><span style="width: 99%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 97%"></span></p>
                         </li>
                         <li>
@@ -443,11 +440,11 @@
                 <div class="pros-box-col">
                     <p class="pros-bx-hdng"><img src="images/like-icon.png" />PROS</p>
                     <ul>
-                        <li>Over 5 proven weight loss strains of Probiotic</li>
-                        <li>Delayed release formula</li>
-                        <li>Suitable for vegans</li>
-                        <li>No-questions-asked 90-day money-back guarantee</li>
-                        <li>Made from a reputable UK company, to GMP standards</li>
+                        <li>7 key strains of probiotic geared for weight loss</li>
+                        <li>Contains a prebiotic to help nourish the probiotics</li>
+                        <li>Contains a delayed release formula</li>
+                        <li>No questions asked 90 day money back guarantee</li>
+                        <li>Made by a reputable UK manufacturer to GMP standards</li>
                     </ul>
 
                 </div>
@@ -462,24 +459,20 @@
                 </div>
             </div>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Ashwagandha KSM-66
-                    Delayed Release- RISK-FREE
+                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotic for Weight - RISK-FREE
                 </a>
             </div>
 
 
             <p class="btm-line-hdng">The Bottom Line</p>
             <p class="btm-line-para">
-                Ashwagandha Delayed Release by Rock & Roses has been voted #1 by our nutrition expert Simon White*,
+                Probiotic for Weight by Rock & Roses has been voted #1 by our nutrition expert Simon White*,
                 <span class="red"> with a 9.8 out of 10 score.</span>
             </p>
             <p class="btm-line-hdng" style="margin-bottom: 15px">What We Loved</p>
             <p class="comn-para">
                 <strong>
-                    Rock & Roses is the only brand on the market that uses the recommended dose of KSM-66 Ashwagandha in
-                    conjunction with Delayed Release Capsule Technology. It's 2 a day capsule dose is the optimal way to
-                    supplement working alongside the delayed release capsule to ensure even delivery of the supplement
-                    throughout the day.
+                    Rock & Roses is the only brand on the market that contains 7 clinically proven strains of probiotic geared to weight management along with a delayed release formula ensuring that the probiotics you ingest are not destroyed before they reach the gut. 
                 </strong>
             </p>
 
@@ -497,18 +490,29 @@
             </p>
             <ol class="newListAdd">
                 <li class="comn-para">
-                    100mg Lemon Balm Extract - Promotes additional benefits to reduce stress and anxiety along with
-                    boosted brain and cognitive function
+                    Fructooligosaccharides - 
                 </li>
                 <li class="comn-para">
-                    50mg Korean Ginseng Extract - Strengthens the immune system and helps fight off stress and disease.
+                    Bifidobacterium lactis - Results on Study on Japanese adults https://pubmed.ncbi.nlm.nih.gov/27867803/
                 </li>
                 <li class="comn-para">
-                    50mg Siberian Ginseng Extract - An adaptogen which helps the body better cope with either mental or
+                    Bifidobacterium bifidum - Results on 117 children along with a calroie controlled diet. https://pubmed.ncbi.nlm.nih.gov/26259892/
                     physical stress.
                 </li>
                 <li class="comn-para">
-                    25mg L-Tyrosine - A Powerful amino acid that can help increase happiness, improve memory, and manage
+                    Lactobacillus plantarum - Results on 65 overweight adults https://pubmed.ncbi.nlm.nih.gov/28001147/
+                    stress.
+                </li>
+                <li class="comn-para">
+                    Lactobacillus acidophilus - 
+                    stress.
+                </li>
+                 <li class="comn-para">
+                    Lactobacillus gasseri - 
+                    stress.
+                </li>
+                  <li class="comn-para">
+                    Lactobacillus fermentum - 
                     stress.
                 </li>
             </ol>
@@ -519,32 +523,30 @@
             <p class="comn-para">There’s just one small thing…</p>
             <p class="comn-para">
                 Rock & Roses is a small-sized company right now. Compared to other household name brands, they don’t
-                have a massive inventory of Ashwagandha KSM-66 Delayed Release.
+                have a massive inventory of Probiotic for Weight.
             </p>
             <p class="comn-para">
                 In other words, with higher demand than the supply, their inventory sells out fast.
             </p>
             <p class="comn-para">The good news is:</p>
             <p class="comn-para">
-                If you’re reading this page, you can still take advantage and stock up on bottles of Ashwagandha KSM-66
-                Delayed Release
+                If you’re reading this page, you can still take advantage and stock up on bottles of Probiotic for Weight
             </p>
             <p class="comn-para">
-                So, before Ashwagandha KSM-66 Delayed Release sells out fast… which is possible within 24 hours, Rock &
+                So, before Probiotic for Weight sells out fast… which is possible within 24 hours, Rock &
                 Roses highly recommends that you buy and stock up now.
             </p>
             <p class="comn-para">
                 Manufacturing may take 3-6 months depending on the availability of ingredients. And with the delay of
                 shipment due to the current worldwide situation, it may take customers 10 or more weeks before they can
-                get bottles of the Ashwagandha KSM-66 Delayed Release.
+                get bottles of the Probiotic for Weight.
             </p>
             <p class="comn-para">
                 Remember: you are covered by the company’s no-questions-asked 90-day money-back guarantee.
             </p>
-            <p class="comn-para">Click the button below to try the Ashwagandha KSM-66 Delayed Release risk-free.</p>
+            <p class="comn-para">Click the button below to try the Probiotic for Weight risk-free.</p>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Ashwagandha KSM-66
-                    Delayed Release- RISK-FREE
+                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotic for Weight - RISK-FREE
                 </a>
             </div>
             <div class="rating-box">
@@ -567,7 +569,7 @@
                             <p><span style="width: 86%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 91%"></span></p>
                         </li>
                         <li>
@@ -644,7 +646,7 @@
                             <p><span style="width: 71%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 87%"></span></p>
                         </li>
                         <li>
@@ -719,7 +721,7 @@
                             <p><span style="width: 63%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 30%"></span></p>
                         </li>
                         <li>
@@ -792,7 +794,7 @@
                             <p><span style="width: 63%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 30%"></span></p>
                         </li>
                         <li>
@@ -848,8 +850,7 @@
             </a>
         </div>
         <div class="btn-box">
-            <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Ashwagandha KSM-66
-                Delayed Release- RISK-FREE
+            <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotic for Weight - RISK-FREE
             </a>
         </div>
     </div>
