@@ -545,13 +545,13 @@
                     <p class="stp-nmbr">#2</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Ashwagandha Boost</span><br />Natures Best
+                            <span>Vitamins Vaginal Probiotic Supplement</span><br />by JSHealth
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/"><img
-                            src="images/NatureBest-MultiVitamin-2_hi.jpg" class="rtngBx-prod2" /></a>
+                    <a href="https://www.amazon.co.uk/JSHealth-Vitamins-Vaginal-Probiotic-Supplement/dp/B09Z57TBYZ/ref=sr_1_6?crid=26KOPD9UKO65A&amp;keywords=vaginal+probiotic&amp;qid=1678871157&amp;sprefix=vaginal+probiotic%252Caps%252C62&amp;sr=8-6&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=53100f7f4229a670984339860d5d8afe&camp=1634&creative=6738"><img
+                            src="images/amazon2.png" class="rtngBx-prod2" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -613,7 +613,7 @@
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/" target="_blank"
+            <a href="https://www.amazon.co.uk/JSHealth-Vitamins-Vaginal-Probiotic-Supplement/dp/B09Z57TBYZ/ref=sr_1_6?crid=26KOPD9UKO65A&amp;keywords=vaginal+probiotic&amp;qid=1678871157&amp;sprefix=vaginal+probiotic%252Caps%252C62&amp;sr=8-6&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=53100f7f4229a670984339860d5d8afe&camp=1634&creative=6738" target="_blank"
                 class="click-now">Click to Shop Now
             </a>
             <div class="rating-box">
@@ -621,14 +621,14 @@
                     <p class="stp-nmbr">#3</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Ashwagandha 1200mg New Leaf </span><br />
-                            by Pharmtect
+                            <span>Prebiotics and Probiotics for Women</span><br />
+                            by Ora Organic
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/dp/B08KJ2YF3D"><img
-                            src="images/3.jpeg" class="rtngBx-prod3" /></a>
+                    <a href="https://www.amazon.co.uk/Ora-Organic-Womens-Probiotic-Capsules/dp/B07NSCZGDX/ref=sr_1_8?crid=26KOPD9UKO65A&amp;keywords=vaginal%252Bprobiotic&amp;qid=1678871252&amp;sprefix=vaginal%252Bprobiotic%252Caps%252C62&amp;sr=8-8&amp;th=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=715dcb42b8cf6c9eec88c20b13d8c274&camp=1634&creative=6738"><img
+                            src="images/amazon3.jpeg" class="rtngBx-prod3" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -690,7 +690,7 @@
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/dp/B08KJ2YF3D"
+            <a href="https://www.amazon.co.uk/Ora-Organic-Womens-Probiotic-Capsules/dp/B07NSCZGDX/ref=sr_1_8?crid=26KOPD9UKO65A&amp;keywords=vaginal%252Bprobiotic&amp;qid=1678871252&amp;sprefix=vaginal%252Bprobiotic%252Caps%252C62&amp;sr=8-8&amp;th=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=715dcb42b8cf6c9eec88c20b13d8c274&camp=1634&creative=6738"
                 class="click-now">Click to Shop Now
             </a>
             <div class="rating-box">
@@ -698,12 +698,12 @@
                     <p class="stp-nmbr">#4</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Superself Ashwagandha Capsules </span><br />by Soil Association
+                            <span>Vaginal Probiotics </span><br />by Canesflor
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/dp/B07ZZ8RGQH"><img src="images/4.jpg" class="rtngBx-prod4" /></a>
+                    <a href="https://www.amazon.co.uk/Canesflor-Probiotic-Prevention-Recurrent-Infections/dp/B01APPUIJC/ref=sr_1_1_sspa?crid=26KOPD9UKO65A&amp;keywords=vaginal+probiotic&amp;qid=1678871252&amp;rdc=1&amp;sprefix=vaginal+probiotic%252Caps%252C62&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=793f1880d08fd799af2c9ba806f19837&camp=1634&creative=6738"><img src="images/amazon4.jpeg" class="rtngBx-prod4" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -764,19 +764,19 @@
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/dp/B07ZZ8RGQH" class="click-now">Click to Shop Now
+            <a href="https://www.amazon.co.uk/Canesflor-Probiotic-Prevention-Recurrent-Infections/dp/B01APPUIJC/ref=sr_1_1_sspa?crid=26KOPD9UKO65A&amp;keywords=vaginal+probiotic&amp;qid=1678871252&amp;rdc=1&amp;sprefix=vaginal+probiotic%252Caps%252C62&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=793f1880d08fd799af2c9ba806f19837&camp=1634&creative=6738" class="click-now">Click to Shop Now
             </a>
             <div class="rating-box">
                 <div class="ratingBx-hdng">
                     <p class="stp-nmbr">#5</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Supplemented Ashwagandha Extract </span><br />by Supplemented
+                            <span>Raw Probiotics Vaginal Care </span><br />by Garden of Life
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/dp/B07S3N4VK8"><img src="images/5.jpg" class="rtngBx-prod4" /></a>
+                    <a href="https://www.amazon.co.uk/Garden-Life-Probiotics-Vegetarian-Capsules/dp/B07CZ5ZDFT/ref=sr_1_3?crid=26KOPD9UKO65A&amp;keywords=vaginal+probiotic&amp;qid=1678871252&amp;sprefix=vaginal+probiotic%252Caps%252C62&amp;sr=8-3&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=589c5c77f600e8ec48b6a0a463beab73&camp=1634&creative=6738"><img src="images/amazon5.jpeg" class="rtngBx-prod4" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -837,7 +837,7 @@
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/dp/B07S3N4VK8" class="click-now">Click to Shop Now
+            <a href="https://www.amazon.co.uk/Garden-Life-Probiotics-Vegetarian-Capsules/dp/B07CZ5ZDFT/ref=sr_1_3?crid=26KOPD9UKO65A&amp;keywords=vaginal+probiotic&amp;qid=1678871252&amp;sprefix=vaginal+probiotic%252Caps%252C62&amp;sr=8-3&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=589c5c77f600e8ec48b6a0a463beab73&camp=1634&creative=6738" class="click-now">Click to Shop Now
             </a>
         </div>
         <div class="btn-box">

@@ -550,13 +550,13 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                     <p class="stp-nmbr">#2</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Ashwagandha Boost</span><br />Natures Best
+                            <span>Beauty Probiotic</span><br />by Feel
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/"><img
-                            src="images/NatureBest-MultiVitamin-2_hi.jpg" class="rtngBx-prod2" /></a>
+                    <a href="https://www.amazon.co.uk/Feel-Beauty-Supplements-Digestion-Capsules/dp/B096ST21GR/ref=sr_1_3_sspa?crid=2JJE2I9PIGWC8&amp;keywords=probiotics+for+digestion&amp;qid=1678872912&amp;sprefix=probiotics+for+digestion%252Caps%252C74&amp;sr=8-3-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=499ddcceff360b2a9d8bc40d2b965d72&camp=1634&creative=6738"><img
+                            src="images/amazon2.jpg" class="rtngBx-prod2" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -618,7 +618,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/" target="_blank"
+            <a href="https://www.amazon.co.uk/Feel-Beauty-Supplements-Digestion-Capsules/dp/B096ST21GR/ref=sr_1_3_sspa?crid=2JJE2I9PIGWC8&amp;keywords=probiotics+for+digestion&amp;qid=1678872912&amp;sprefix=probiotics+for+digestion%252Caps%252C74&amp;sr=8-3-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=499ddcceff360b2a9d8bc40d2b965d72&camp=1634&creative=6738" target="_blank"
                 class="click-now">Click to Shop Now
             </a>
             <div class="rating-box">
@@ -626,14 +626,14 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                     <p class="stp-nmbr">#3</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Ashwagandha 1200mg New Leaf </span><br />
-                            by Pharmtect
+                            <span>Pro Bio Cultures Complex </span><br />
+                            by MaxMedix
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/dp/B08KJ2YF3D"><img
-                            src="images/3.jpeg" class="rtngBx-prod3" /></a>
+                    <a href="https://www.amazon.co.uk/Pro-Bio-Cultures-Complex-Lactobacillus/dp/B092Q8SGPT/ref=sr_1_4_sspa?crid=2JJE2I9PIGWC8&amp;keywords=probiotics+for+digestion&amp;qid=1678872959&amp;sprefix=probiotics+for+digestion%252Caps%252C74&amp;sr=8-4-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=907bcaa1d670b0ca4fc7b2ee4f62f35c&camp=1634&creative=6738"><img
+                            src="images/amazon3.jpg" class="rtngBx-prod3" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -695,7 +695,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/dp/B08KJ2YF3D"
+            <a href="https://www.amazon.co.uk/Pro-Bio-Cultures-Complex-Lactobacillus/dp/B092Q8SGPT/ref=sr_1_4_sspa?crid=2JJE2I9PIGWC8&amp;keywords=probiotics+for+digestion&amp;qid=1678872959&amp;sprefix=probiotics+for+digestion%252Caps%252C74&amp;sr=8-4-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=907bcaa1d670b0ca4fc7b2ee4f62f35c&camp=1634&creative=6738"
                 class="click-now">Click to Shop Now
             </a>
             <div class="rating-box">
@@ -703,12 +703,12 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                     <p class="stp-nmbr">#4</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Superself Ashwagandha Capsules </span><br />by Soil Association
+                            <span>Digestive Works</span><br />by Link Nutrition
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/dp/B07ZZ8RGQH"><img src="images/4.jpg" class="rtngBx-prod4" /></a>
+                    <a href="https://www.amazon.co.uk/Digestive-Works-Postbiotic-Supplement-Supporting/dp/B0BS9L2VZG/ref=sr_1_19_sspa?crid=2JJE2I9PIGWC8&amp;keywords=probiotics+for+digestion&amp;qid=1678872959&amp;sprefix=probiotics+for+digestion%252Caps%252C74&amp;sr=8-19-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;psc=1&amp;smid=A125MU3AQJ0PRT&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=7a8ad63f585e1bff64f837ec742de13c&camp=1634&creative=6738"><img src="images/amazon4.jpg" class="rtngBx-prod4" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -769,19 +769,19 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/dp/B07ZZ8RGQH" class="click-now">Click to Shop Now
+            <a href="https://www.amazon.co.uk/Digestive-Works-Postbiotic-Supplement-Supporting/dp/B0BS9L2VZG/ref=sr_1_19_sspa?crid=2JJE2I9PIGWC8&amp;keywords=probiotics+for+digestion&amp;qid=1678872959&amp;sprefix=probiotics+for+digestion%252Caps%252C74&amp;sr=8-19-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;psc=1&amp;smid=A125MU3AQJ0PRT&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=7a8ad63f585e1bff64f837ec742de13c&camp=1634&creative=6738" class="click-now">Click to Shop Now
             </a>
             <div class="rating-box">
                 <div class="ratingBx-hdng">
                     <p class="stp-nmbr">#5</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Supplemented Ashwagandha Extract </span><br />by Supplemented
+                            <span>Bio Cultures Complex </span><br />by Nutravita
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/dp/B07S3N4VK8"><img src="images/5.jpg" class="rtngBx-prod4" /></a>
+                    <a href="https://www.amazon.co.uk/Cultures-Bacteria-Strength-Capsules-Nutravita/dp/B07P5F8KVJ/ref=sr_1_45?crid=2JJE2I9PIGWC8&amp;keywords=probiotics+for+digestion&amp;qid=1678872959&amp;sprefix=probiotics+for+digestion%252Caps%252C74&amp;sr=8-45&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=91844820c7328a856e9c4bd7d097ab69&camp=1634&creative=6738"><img src="images/amazon5.jpg" class="rtngBx-prod4" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -842,7 +842,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/dp/B07S3N4VK8" class="click-now">Click to Shop Now
+            <a href="https://www.amazon.co.uk/Cultures-Bacteria-Strength-Capsules-Nutravita/dp/B07P5F8KVJ/ref=sr_1_45?crid=2JJE2I9PIGWC8&amp;keywords=probiotics+for+digestion&amp;qid=1678872959&amp;sprefix=probiotics+for+digestion%252Caps%252C74&amp;sr=8-45&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=91844820c7328a856e9c4bd7d097ab69&camp=1634&creative=6738" class="click-now">Click to Shop Now
             </a>
         </div>
         <div class="btn-box">
