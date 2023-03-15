@@ -376,7 +376,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                     <p class="stp-nmbr">#1</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span><a href="https://rockandroses.life/products/ashwagandha"> Probiotic for Digestion Delayed Release</a> </span><br />
+                            <span><a href="https://rockandroses.life/products/probiotics-for-digestion"> Probiotic for Digestion Delayed Release</a> </span><br />
                             Rock and Roses Premium Supplements
                         </p>
                         <div class="rvw-btn hide-mob">
@@ -394,7 +394,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://rockandroses.life/products/ashwagandha">
+                    <a href="https://rockandroses.life/products/probiotics-for-digestion">
                         <img src="images/main-product.jpeg" class="rtngBx-prod1" />
                     </a>
                 </div>
@@ -461,7 +461,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                 </div>
             </div>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probitics for Digestion Delayed Release- RISK-FREE
+                <a href="https://rockandroses.life/products/probiotics-for-digestion" class="ordr-btn pulse">Try Probitics for Digestion Delayed Release- RISK-FREE
                 </a>
             </div>
 
@@ -511,7 +511,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                 </li>
             </ol>
             <div class="clearall"></div>
-            <a href="https://rockandroses.life/products/ashwagandha"><img src="images/main-product.jpeg"
+            <a href="https://rockandroses.life/products/probiotics-for-digestion"><img src="images/main-product.jpeg"
                     class="sec-img3 hide-mob" /></a>
             <p class="hide-mob">&nbsp;</p>
             <p class="comn-para">There’s just one small thing…</p>
@@ -541,7 +541,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
             </p>
             <p class="comn-para">Click the button below to try the Probitics for DigestionDelayed Release risk-free.</p>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Ashwagandha KSM-66
+                <a href="https://rockandroses.life/products/probiotics-for-digestion" class="ordr-btn pulse">Try Ashwagandha KSM-66
                     Delayed Release- RISK-FREE
                 </a>
             </div>
@@ -846,7 +846,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
             </a>
         </div>
         <div class="btn-box">
-            <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Ashwagandha KSM-66
+            <a href="https://rockandroses.life/products/probiotics-for-digestion" class="ordr-btn pulse">Try Ashwagandha KSM-66
                 Delayed Release- RISK-FREE
             </a>
         </div>

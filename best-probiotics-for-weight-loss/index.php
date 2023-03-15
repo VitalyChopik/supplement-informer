@@ -374,7 +374,7 @@
                     <p class="stp-nmbr">#1</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span><a href="https://rockandroses.life/products/ashwagandha"> Probiotic for Weight</a> </span><br />
+                            <span><a href="https://rockandroses.life/products/probiotic-for-weight-management"> Probiotic for Weight</a> </span><br />
                             Rock and Roses Premium Supplements
                         </p>
                         <div class="rvw-btn hide-mob">
@@ -392,7 +392,7 @@
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://rockandroses.life/products/ashwagandha">
+                    <a href="https://rockandroses.life/products/probiotic-for-weight-management">
                         <img src="images/main-product.jpeg" class="rtngBx-prod1" />
                     </a>
                 </div>
@@ -459,7 +459,7 @@
                 </div>
             </div>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotic for Weight - RISK-FREE
+                <a href="https://rockandroses.life/products/probiotic-for-weight-management" class="ordr-btn pulse">Try Probiotic for Weight - RISK-FREE
                 </a>
             </div>
 
@@ -517,7 +517,7 @@
                 </li>
             </ol>
             <div class="clearall"></div>
-            <a href="https://rockandroses.life/products/ashwagandha"><img src="images/main-product.jpeg"
+            <a href="https://rockandroses.life/products/probiotic-for-weight-management"><img src="images/main-product.jpeg"
                     class="sec-img3 hide-mob" /></a>
             <p class="hide-mob">&nbsp;</p>
             <p class="comn-para">There’s just one small thing…</p>
@@ -546,7 +546,7 @@
             </p>
             <p class="comn-para">Click the button below to try the Probiotic for Weight risk-free.</p>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotic for Weight - RISK-FREE
+                <a href="https://rockandroses.life/products/probiotic-for-weight-management" class="ordr-btn pulse">Try Probiotic for Weight - RISK-FREE
                 </a>
             </div>
             <div class="rating-box">
@@ -850,7 +850,7 @@
             </a>
         </div>
         <div class="btn-box">
-            <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotic for Weight - RISK-FREE
+            <a href="https://rockandroses.life/products/probiotic-for-weight-management" class="ordr-btn pulse">Try Probiotic for Weight - RISK-FREE
             </a>
         </div>
     </div>

@@ -373,7 +373,7 @@
                     <p class="stp-nmbr">#1</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span><a href="https://rockandroses.life/products/ashwagandha"> Probiotics for Her Delayed Release</a> </span><br />
+                            <span><a href="https://rockandroses.life/products/probiotics-for-her"> Probiotics for Her Delayed Release</a> </span><br />
                             Rock and Roses Premium Supplements
                         </p>
                         <div class="rvw-btn hide-mob">
@@ -391,7 +391,7 @@
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://rockandroses.life/products/ashwagandha">
+                    <a href="https://rockandroses.life/products/probiotics-for-her">
                         <img src="images/main-product.jpeg" class="rtngBx-prod1" />
                     </a>
                 </div>
@@ -458,7 +458,7 @@
                 </div>
             </div>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotics for Her Delayed Release - RISK-FREE
+                <a href="https://rockandroses.life/products/probiotics-for-her" class="ordr-btn pulse">Try Probiotics for Her Delayed Release - RISK-FREE
                 </a>
             </div>
 
@@ -508,7 +508,7 @@
                 </li>
             </ol>
             <div class="clearall"></div>
-            <a href="https://rockandroses.life/products/ashwagandha"><img src="images/main-product.jpeg"
+            <a href="https://rockandroses.life/products/probiotics-for-her"><img src="images/main-product.jpeg"
                     class="sec-img3 hide-mob" /></a>
             <p class="hide-mob">&nbsp;</p>
             <p class="comn-para">There’s just one small thing…</p>
@@ -537,7 +537,7 @@
             </p>
             <p class="comn-para">Click the button below to try the Probiotics for Her Delayed Release risk-free.</p>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotics for Her Delayed Release - RISK-FREE
+                <a href="https://rockandroses.life/products/probiotics-for-her" class="ordr-btn pulse">Try Probiotics for Her Delayed Release - RISK-FREE
                 </a>
             </div>
             <div class="rating-box">
@@ -841,7 +841,7 @@
             </a>
         </div>
         <div class="btn-box">
-            <a href="https://rockandroses.life/products/ashwagandha" class="ordr-btn pulse">Try Probiotics for Her Delayed Release - RISK-FREE
+            <a href="https://rockandroses.life/products/probiotics-for-her" class="ordr-btn pulse">Try Probiotics for Her Delayed Release - RISK-FREE
             </a>
         </div>
     </div>
