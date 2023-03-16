@@ -554,13 +554,13 @@
                     <p class="stp-nmbr">#2</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Ashwagandha Boost</span><br />Natures Best
+                            <span>50 Billion CFU Shapeline</span><br /> by Pro-Ven Probiotics
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/"><img
-                            src="images/NatureBest-MultiVitamin-2_hi.jpg" class="rtngBx-prod2" /></a>
+                    <a href="https://www.amazon.co.uk/Pro-Ven-PROVEN-025-30-50-Billion-ShapeLine/dp/B084134HPW/ref=sr_1_5?crid=3BZXA7F3BVGBM&amp;keywords=probiotic+for+weight+loss&amp;qid=1678874314&amp;rdc=1&amp;sprefix=probiotic+for+weight+loss%252Caps%252C73&amp;sr=8-5&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=b63460963d78d88f24ab60ffb261fe6a&camp=1634&creative=6738"><img
+                            src="images/amazon2.jpg" class="rtngBx-prod2" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -622,7 +622,7 @@
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/" target="_blank"
+            <a href="https://www.amazon.co.uk/Pro-Ven-PROVEN-025-30-50-Billion-ShapeLine/dp/B084134HPW/ref=sr_1_5?crid=3BZXA7F3BVGBM&amp;keywords=probiotic+for+weight+loss&amp;qid=1678874314&amp;rdc=1&amp;sprefix=probiotic+for+weight+loss%252Caps%252C73&amp;sr=8-5&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=b63460963d78d88f24ab60ffb261fe6a&camp=1634&creative=6738" target="_blank"
                 class="click-now">Click to Shop Now
             </a>
             <div class="rating-box">
@@ -630,14 +630,14 @@
                     <p class="stp-nmbr">#3</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Ashwagandha 1200mg New Leaf </span><br />
-                            by Pharmtect
+                            <span>Optibac Probiotics Every Day</span><br />
+                            by OptiBac
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/dp/B08KJ2YF3D"><img
-                            src="images/3.jpeg" class="rtngBx-prod3" /></a>
+                    <a href="https://www.amazon.co.uk/OptiBac-Multi-Strain-Lactobacillus-Acidophilus-Vegetarian/dp/B00GY8E05I/ref=sr_1_2_sspa?crid=3BZXA7F3BVGBM&amp;keywords=probiotic%252Bfor%252Bweight%252Bloss&amp;qid=1678874334&amp;sprefix=probiotic%252Bfor%252Bweight%252Bloss%252Caps%252C73&amp;sr=8-2-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=2403e9d5cb88eeff6536db1e085aa315&camp=1634&creative=6738"><img
+                            src="images/amazon3.jpg" class="rtngBx-prod3" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -699,7 +699,7 @@
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/Ashwagandha-Boost-1000mg-Supplement-Somnifera/dp/B08KJ2YF3D"
+            <a href="https://www.amazon.co.uk/OptiBac-Multi-Strain-Lactobacillus-Acidophilus-Vegetarian/dp/B00GY8E05I/ref=sr_1_2_sspa?crid=3BZXA7F3BVGBM&amp;keywords=probiotic%252Bfor%252Bweight%252Bloss&amp;qid=1678874334&amp;sprefix=probiotic%252Bfor%252Bweight%252Bloss%252Caps%252C73&amp;sr=8-2-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=2403e9d5cb88eeff6536db1e085aa315&camp=1634&creative=6738"
                 class="click-now">Click to Shop Now
             </a>
             <div class="rating-box">
@@ -707,12 +707,12 @@
                     <p class="stp-nmbr">#4</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Superself Ashwagandha Capsules </span><br />by Soil Association
+                            <span>Super 8 Immune</span><br />by Udo's Choice
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/dp/B07ZZ8RGQH"><img src="images/4.jpg" class="rtngBx-prod4" /></a>
+                    <a href="https://www.amazon.co.uk/Super-Capsules-Pack-30/dp/B000N99VTE/ref=sr_1_4_sspa?crid=3BZXA7F3BVGBM&amp;keywords=probiotic%252Bfor%252Bweight%252Bloss&amp;qid=1678874334&amp;sprefix=probiotic%252Bfor%252Bweight%252Bloss%252Caps%252C73&amp;sr=8-4-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=723c3022a6d6abd70cc8130da270d3c2&camp=1634&creative=6738"><img src="images/amazon4.jpg" class="rtngBx-prod4" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -773,19 +773,19 @@
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/dp/B07ZZ8RGQH" class="click-now">Click to Shop Now
+            <a href="https://www.amazon.co.uk/Super-Capsules-Pack-30/dp/B000N99VTE/ref=sr_1_4_sspa?crid=3BZXA7F3BVGBM&amp;keywords=probiotic%252Bfor%252Bweight%252Bloss&amp;qid=1678874334&amp;sprefix=probiotic%252Bfor%252Bweight%252Bloss%252Caps%252C73&amp;sr=8-4-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=723c3022a6d6abd70cc8130da270d3c2&camp=1634&creative=6738" class="click-now">Click to Shop Now
             </a>
             <div class="rating-box">
                 <div class="ratingBx-hdng">
                     <p class="stp-nmbr">#5</p>
                     <div class="rtng-hdng-rght">
                         <p class="rtng-txt1">
-                            <span>Supplemented Ashwagandha Extract </span><br />by Supplemented
+                            <span>Colon Cleanse Capsules  </span><br />by LIVEWELL NUTRITION LIMITED
                         </p>
                     </div>
                 </div>
                 <div class="rating-col-1">
-                    <a href="https://www.amazon.co.uk/dp/B07S3N4VK8"><img src="images/5.jpg" class="rtngBx-prod4" /></a>
+                    <a href="https://www.amazon.co.uk/Improve-Regularity-Eliminate-Constipation-Probiotic/dp/B07W57N96G/ref=sr_1_7?crid=3BZXA7F3BVGBM&amp;keywords=probiotic+for+weight+loss&amp;qid=1678874334&amp;sprefix=probiotic+for+weight+loss%252Caps%252C73&amp;sr=8-7&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=e1135db5681b3c896bc8d7ef2af14f0d&camp=1634&creative=6738"><img src="images/amazon5.jpg" class="rtngBx-prod4" /></a>
                 </div>
                 <div class="rating-col-2">
                     <ul class="rev-bars">
@@ -846,7 +846,7 @@
                     </ul>
                 </div>
             </div>
-            <a href="https://www.amazon.co.uk/dp/B07S3N4VK8" class="click-now">Click to Shop Now
+            <a href="https://www.amazon.co.uk/Improve-Regularity-Eliminate-Constipation-Probiotic/dp/B07W57N96G/ref=sr_1_7?crid=3BZXA7F3BVGBM&amp;keywords=probiotic+for+weight+loss&amp;qid=1678874334&amp;sprefix=probiotic+for+weight+loss%252Caps%252C73&amp;sr=8-7&_encoding=UTF8&tag=supplementi03-21&linkCode=ur2&linkId=e1135db5681b3c896bc8d7ef2af14f0d&camp=1634&creative=6738" class="click-now">Click to Shop Now
             </a>
         </div>
         <div class="btn-box">
