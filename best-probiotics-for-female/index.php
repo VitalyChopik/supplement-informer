@@ -145,7 +145,7 @@
     <div class="main-section">
         <div class="container">
             <h1 class="main-hdng">
-                The Best Probiotics for Weight Loss in 2023
+                The Best Probiotic for Her in 2023
                 <img src="images/flg.png" />
             </h1>
             <div class="postal">
@@ -471,10 +471,7 @@
             <p class="btm-line-hdng" style="margin-bottom: 15px">What We Loved</p>
             <p class="comn-para">
                 <strong>
-                    Rock & Roses is the only brand on the market that uses the recommended dose of KSM-66 Ashwagandha in
-                    conjunction with Delayed Release Capsule Technology. It's 2 a day capsule dose is the optimal way to
-                    supplement working alongside the delayed release capsule to ensure even delivery of the supplement
-                    throughout the day.
+                    Rock & Roses is the only brand on the market that includes prebiotics with their probiotic strains along with a Delayed Release formula. Its 1 a day capsule is the optimal way to supplement and in our opinion nothing else really comes close for female health than this supplement.
                 </strong>
             </p>
 
@@ -486,27 +483,7 @@
                     90-day money-back guarantee.
                 </p>
             </div>
-            <p class="comn-para" styled="margin-bottom: 18px; margin-top: 20px">
-                Plus, they’ve thoughtfully engineered the vitamins to provide the most optimal results. Here are a
-                couple of ingredients they include which other brands don't..
-            </p>
-            <ol class="newListAdd">
-                <li class="comn-para">
-                    100mg Lemon Balm Extract - Promotes additional benefits to reduce stress and anxiety along with
-                    boosted brain and cognitive function
-                </li>
-                <li class="comn-para">
-                    50mg Korean Ginseng Extract - Strengthens the immune system and helps fight off stress and disease.
-                </li>
-                <li class="comn-para">
-                    50mg Siberian Ginseng Extract - An adaptogen which helps the body better cope with either mental or
-                    physical stress.
-                </li>
-                <li class="comn-para">
-                    25mg L-Tyrosine - A Powerful amino acid that can help increase happiness, improve memory, and manage
-                    stress.
-                </li>
-            </ol>
+            
             <div class="clearall"></div>
             <a href="https://rockandroses.life/products/probiotics-for-her"><img src="images/main-product.jpeg"
                     class="sec-img3 hide-mob" /></a>
@@ -527,11 +504,7 @@
                 So, before Probiotics for Her Delayed Release sells out fast… which is possible within 24 hours, Rock &
                 Roses highly recommends that you buy and stock up now.
             </p>
-            <p class="comn-para">
-                Manufacturing may take 3-6 months depending on the availability of ingredients. And with the delay of
-                shipment due to the current worldwide situation, it may take customers 10 or more weeks before they can
-                get bottles of the Probiotics for Her Delayed Release.
-            </p>
+            
             <p class="comn-para">
                 Remember: you are covered by the company’s no-questions-asked 90-day money-back guarantee.
             </p>
@@ -560,7 +533,7 @@
                             <p><span style="width: 86%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                          Probiotic Potency
                             <p><span style="width: 91%"></span></p>
                         </li>
                         <li>
@@ -597,8 +570,8 @@
                 <div class="pros-box-col">
                     <p class="pros-bx-hdng"><img src="images/like-icon.png" />PROS</p>
                     <ul>
-                        <li>UK Company </li>
-                        <li>Fast Delivery</li>
+                        <li>Contains 3/6 strains necessary for vaginal health</li>
+                        <li>Free Shipping</li>
                         <li>Vegan Suitable</li>
                     </ul>
                 </div>
@@ -607,9 +580,9 @@
                         <img src="images/dis-like-icon.png" />CONS
                     </p>
                     <ul>
-                        <li>Does not declare KSM-66 on packaging only on site. Beware</li>
-                        <li>Exceeds recommended safe daily dose of 600mg</li>
-                        <li>Comes in tablet form. Capsules are better.</li>
+                        <li>Doesn't contain any prebiotics</li>
+                        <li>Contains Maltodextrin which can spike blood sugar</li>
+                         <li>Not manufactured in the UK</li>
                     </ul>
                 </div>
             </div>
@@ -637,7 +610,7 @@
                             <p><span style="width: 71%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 87%"></span></p>
                         </li>
                         <li>
@@ -674,7 +647,7 @@
                 <div class="pros-box-col">
                     <p class="pros-bx-hdng"><img src="images/like-icon.png" />PROS</p>
                     <ul>
-                        <li>UK Company </li>
+                        <li>Contains Prebiotics</li>
                         <li>Fast Delivery</li>
                         <li>Vegan Suitable</li>
                     </ul>
@@ -683,10 +656,9 @@
                     <p class="pros-bx-hdng">
                         <img src="images/dis-like-icon.png" />CONS
                     </p>
-                    <ul>
-                        <li>Does not contain KSM-66 considered the best quality Ashwagandha</li>
-                        <li>Far Exceeds recommended safe daily dose of 600mg</li>
-                        <li>Comes in tablet form. Capsules are better./li>
+                    <ul>                    
+                        <li>Contains Maltodextrin which can spike blood sugar</li>
+                         <li>Not manufactured in the UK</li>
                     </ul>
                 </div>
             </div>
@@ -712,7 +684,7 @@
                             <p><span style="width: 63%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                             Probiotic Potency
                             <p><span style="width: 30%"></span></p>
                         </li>
                         <li>
@@ -749,7 +721,7 @@
                 <div class="pros-box-col">
                     <p class="pros-bx-hdng"><img src="images/like-icon.png" />PROS</p>
                     <ul>
-                        <li>UK Company </li>
+                        <li>Cheaper Option</li>
                         <li>Fast Delivery</li>
                         <li>Vegan Suitable Capsules</li>
                     </ul>
@@ -759,8 +731,8 @@
                         <img src="images/dis-like-icon.png" />CONS
                     </p>
                     <ul>
-                        <li>Does not contain KSM-66 considered the best quality Ashwagandha</li>
-                        <li>Far Exceeds recommended safe daily dose of 600mg</li>
+                        <li>Only contains 10 capsules</li>
+                        <li>Does not declare ingredients or strains on site</li>
                     </ul>
                 </div>
             </div>
@@ -785,7 +757,7 @@
                             <p><span style="width: 63%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                             Probiotic Potency
                             <p><span style="width: 30%"></span></p>
                         </li>
                         <li>
@@ -831,7 +803,6 @@
                         <img src="images/dis-like-icon.png" />CONS
                     </p>
                     <ul>
-                        <li>Does not contain KSM-66 considered the best quality Ashwagandha</li>
                         <li>Far Exceeds recommended safe daily dose of 600mg</li>
                         <li>Comes in tablet form. Capsules are better. </li>
                     </ul>

@@ -468,13 +468,13 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
 
             <p class="btm-line-hdng">The Bottom Line</p>
             <p class="btm-line-para">
-                Ashwagandha Delayed Release by Rock & Roses has been voted #1 by our nutrition expert Simon White*,
+            Probiotic for Digestion Delayed Release by Rock & Roses has been voted #1 by our nutrition expert Simon White*,
                 <span class="red"> with a 9.8 out of 10 score.</span>
             </p>
             <p class="btm-line-hdng" style="margin-bottom: 15px">What We Loved</p>
             <p class="comn-para">
                 <strong>
-                    Rock & Roses is the only brand on the market that uses the recommended dose of KSM-66 Ashwagandha in
+                    Rock & Roses is the only brand on the market that uses the recommended dose of Probiotic for Digestion in
                     conjunction with Delayed Release Capsule Technology. It's 2 a day capsule dose is the optimal way to
                     supplement working alongside the delayed release capsule to ensure even delivery of the supplement
                     throughout the day.
@@ -524,7 +524,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
             </p>
             <p class="comn-para">The good news is:</p>
             <p class="comn-para">
-                If you’re reading this page, you can still take advantage and stock up on bottles of Ashwagandha KSM-66
+                If you’re reading this page, you can still take advantage and stock up on bottles of Probiotic for Digestion
                 Delayed Release
             </p>
             <p class="comn-para">
@@ -541,7 +541,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
             </p>
             <p class="comn-para">Click the button below to try the Probitics for DigestionDelayed Release risk-free.</p>
             <div class="btn-box">
-                <a href="https://rockandroses.life/products/probiotics-for-digestion" class="ordr-btn pulse">Try Ashwagandha KSM-66
+                <a href="https://rockandroses.life/products/probiotics-for-digestion" class="ordr-btn pulse">Try Probiotic for Digestion
                     Delayed Release- RISK-FREE
                 </a>
             </div>
@@ -565,7 +565,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                             <p><span style="width: 86%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 91%"></span></p>
                         </li>
                         <li>
@@ -642,7 +642,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                             <p><span style="width: 71%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 87%"></span></p>
                         </li>
                         <li>
@@ -689,7 +689,6 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                         <img src="images/dis-like-icon.png" />CONS
                     </p>
                     <ul>
-                        <li>Does not contain KSM-66 considered the best quality Ashwagandha</li>
                         <li>Far Exceeds recommended safe daily dose of 600mg</li>
                         <li>Comes in tablet form. Capsules are better./li>
                     </ul>
@@ -717,7 +716,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                             <p><span style="width: 63%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 30%"></span></p>
                         </li>
                         <li>
@@ -764,7 +763,6 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                         <img src="images/dis-like-icon.png" />CONS
                     </p>
                     <ul>
-                        <li>Does not contain KSM-66 considered the best quality Ashwagandha</li>
                         <li>Far Exceeds recommended safe daily dose of 600mg</li>
                     </ul>
                 </div>
@@ -790,7 +788,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                             <p><span style="width: 63%"></span></p>
                         </li>
                         <li>
-                            Ashwagandha Potency
+                            Probiotic Potency
                             <p><span style="width: 30%"></span></p>
                         </li>
                         <li>
@@ -836,7 +834,6 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
                         <img src="images/dis-like-icon.png" />CONS
                     </p>
                     <ul>
-                        <li>Does not contain KSM-66 considered the best quality Ashwagandha</li>
                         <li>Far Exceeds recommended safe daily dose of 600mg</li>
                         <li>Comes in tablet form. Capsules are better. </li>
                     </ul>
@@ -846,7 +843,7 @@ a significant decrease in IBS severity was observed and 57% of patients moved to
             </a>
         </div>
         <div class="btn-box">
-            <a href="https://rockandroses.life/products/probiotics-for-digestion" class="ordr-btn pulse">Try Ashwagandha KSM-66
+            <a href="https://rockandroses.life/products/probiotics-for-digestion" class="ordr-btn pulse">Try Probiotic for Digestion
                 Delayed Release- RISK-FREE
             </a>
         </div>

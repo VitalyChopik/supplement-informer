@@ -616,7 +616,6 @@
                         <img src="images/dis-like-icon.png" />CONS
                     </p>
                     <ul>
-                        <li>Does not declare KSM-66 on packaging only on site. Beware</li>
                         <li>Exceeds recommended safe daily dose of 600mg</li>
                         <li>Comes in tablet form. Capsules are better.</li>
                     </ul>
@@ -693,9 +692,8 @@
                         <img src="images/dis-like-icon.png" />CONS
                     </p>
                     <ul>
-                        <li>Does not contain KSM-66 considered the best quality Ashwagandha</li>
                         <li>Far Exceeds recommended safe daily dose of 600mg</li>
-                        <li>Comes in tablet form. Capsules are better./li>
+                        <li>Comes in tablet form. Capsules are better.</li>
                     </ul>
                 </div>
             </div>
@@ -768,8 +766,8 @@
                         <img src="images/dis-like-icon.png" />CONS
                     </p>
                     <ul>
-                        <li>Does not contain KSM-66 considered the best quality Ashwagandha</li>
                         <li>Far Exceeds recommended safe daily dose of 600mg</li>
+                        <li>Not manufactured in the UK</li>
                     </ul>
                 </div>
             </div>
@@ -840,7 +838,6 @@
                         <img src="images/dis-like-icon.png" />CONS
                     </p>
                     <ul>
-                        <li>Does not contain KSM-66 considered the best quality Ashwagandha</li>
                         <li>Far Exceeds recommended safe daily dose of 600mg</li>
                         <li>Comes in tablet form. Capsules are better. </li>
                     </ul>
